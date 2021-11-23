@@ -225,10 +225,3 @@ ggsave("precio_pasa3.pdf")
     Saving 6.67 x 6.67 in image
     
 
-
-```R
-install.packages("jupytext")
-```
-
-    Warning message:
-    "package 'jupytext' is not available (for R version 3.6.1)"
